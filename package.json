@@ -1,0 +1,12 @@
+{
+  "name": "express_docker",
+  "version": "1.0.0",
+  "description": "Dockerizing a nodejs application",
+  "main": "app.js",
+  "scripts": {
+    "script": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abi Seth",
+  "license": "ISC"
+}
